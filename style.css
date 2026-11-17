@@ -1,0 +1,25 @@
+body {
+    background-color: #c1d4c1; 
+    font-family: Raleway, sans-serif; 
+    margin: 0;
+}
+.menu {
+    padding: 30px;
+    display: inline-block;
+    margin-right: 30px;
+    vertical-align: middle;
+}
+
+h1 {
+    padding-left: 25px;
+
+    position: absolute;
+    top: 0px;
+    font-size: 100px
+}
+
+p {
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
